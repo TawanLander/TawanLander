@@ -7,15 +7,9 @@
 
 #### **`📷 | Redes Sociais`**
 <p align='left'>
-<a href= 'https://github.com/TawanLander'>
-    <img alt ='Github' title='Github' src='https://custom-icon-badges.demolab.com/badge/Github-000.svg?logo=github' style='padding-right: 5px' width = 100/>
-</a>
-<a href= 'https://www.linkedin.com/in/tawan-lander-638347272/'>
-    <img alt ='Linkedin' title='Linkedin' src='https://custom-icon-badges.demolab.com/badge/Linkedin-09124A.svg?logo=lin' style='padding-right: 5px' width = 110/>
-</a>
-<a href= 'https://www.instagram.com/tawanlander/'>
-    <img alt ='Instagram' title='Instagram' src='https://custom-icon-badges.demolab.com/badge/Instagram-C13584.svg?logo=instagram' style='padding-right: 5px' width = 130/>
-</a>
+<a href= 'https://github.com/TawanLander'><img alt ='Github' title='Github' src='https://custom-icon-badges.demolab.com/badge/Github-000.svg?logo=github' style='padding-right: 5px' width = 100/></a>
+<a href= 'https://www.linkedin.com/in/tawan-lander-638347272/'><img alt ='Linkedin' title='Linkedin' src='https://custom-icon-badges.demolab.com/badge/Linkedin-09124A.svg?logo=lin' style='padding-right: 5px' width = 110/></a>
+<a href= 'https://www.instagram.com/tawanlander/'><img alt ='Instagram' title='Instagram' src='https://custom-icon-badges.demolab.com/badge/Instagram-C13584.svg?logo=instagram' style='padding-right: 5px' width = 130/></a>
 </p>
 
 #
