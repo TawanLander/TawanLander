@@ -1,7 +1,7 @@
-# 💻 **Tawan Lander** | <span style="font-size: 0.6em">**`Futuro Desenvolvedor`**</span>
+# 💻 **Tawan Lander**
 
 #### **`🙋🏽 | Apresentação`**
-<span style='font-size: 1.1em'>Olá meu nome é **Tawan**, tenho 18 anos e sou natural de Santos, SP. Atualmente cursando Análise e Desenvolvimento de Sistemas 1/5 na [SPTECH](https://sptech.school/). Quero aprender e me aperfeiçoar no mundo da programação!</span>
+<span style='font-size: 1.1em'>Olá meu nome é **Tawan**, tenho 19 anos e sou natural de Santos, SP. Atualmente cursando Análise e Desenvolvimento de Sistemas 2/5 na [SPTECH](https://sptech.school/). Quero aprender e me aperfeiçoar no mundo da programação!</span>
 
 #
 
